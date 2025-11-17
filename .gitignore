@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+# Jupyter
+.ipynb_checkpoints/
+# Data and models (uncomment if you want to keep them out of git)
+data/
+models/
+# System
+.DS_Store
