@@ -78,7 +78,7 @@ If the dataset is restricted by course policy, the `data/` folder is excluded vi
 
 ## Acknowledgements
 
-This project was completed under the guidance of **Prof. [Your Professor’s Name]**,  
+This project was completed under the guidance of Dr. Jie Hou  
 whose feedback helped me understand modeling decisions, data preprocessing techniques,  
 and interpret machine learning evaluation metrics.
 
