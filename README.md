@@ -89,7 +89,6 @@ to help me learn Python syntax, ML concepts, and proper workflow structuring.
 
 ## Notes
 
-- This project is written in a simple, beginner-friendly style as I am still learning machine learning and Python.  
 - The aim is educational — to understand how ML works end-to-end.  
 - Future improvements include hyperparameter tuning, SHAP explainability, and model deployment.
 
